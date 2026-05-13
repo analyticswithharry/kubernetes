@@ -128,7 +128,6 @@ This notebook provides a comprehensive guide to **Kubernetes fundamentals and ad
 ## Further Resources
 
 - [Official Kubernetes Documentation](https://kubernetes.io/docs/)
-- [Kubernetes API Reference](https://kubernetes.io/docs/reference/generated/kubernetes-api/)
 - [Best Practices Guide](https://kubernetes.io/docs/concepts/configuration/overview/)
 
 ## License
